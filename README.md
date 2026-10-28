@@ -202,11 +202,16 @@ MissioniReflexAndroid/
 
 ## Crediti e licenze degli asset
 
-- **Modello 3D della fotocamera:** “ASAHI PENTAX K1000” di LOOWIE su Sketchfab, distribuito con licenza **CC BY 4.0**: [pagina del modello](https://sketchfab.com/3d-models/asahi-pentax-k1000-0e342ea75d9745fdb213658856d69dab). Conservare l'attribuzione nelle distribuzioni.
-- **Cosmetici 3D:** `HatModificato.glb`, `scarf_soccer_-_tf2.glb` e `moka_pot.glb` sono stati forniti per il prototipo. I relativi diritti e le licenze di redistribuzione devono essere verificati prima di includerli in un repository pubblico o in una release.
-- **Marchio Pentax:** Pentax è un marchio di Ricoh Imaging Company, Ltd. Il progetto è indipendente e non è affiliato né approvato dal titolare del marchio.
+I modelli 3D di terze parti mantengono le licenze dei rispettivi autori. Per gli asset rilasciati sotto **Creative Commons Attribution 4.0 International (CC BY 4.0)**, occorre conservare l'attribuzione, collegare la licenza e indicare le modifiche apportate. Testo della licenza: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Il repository non dichiara ancora una licenza open source per l'intero progetto. In assenza di un file `LICENSE`, non presumere che codice e asset siano liberamente riutilizzabili.
+- **Fotocamera 3D — “ASAHI PENTAX K1000”**: modello di **LOOWIE**, pubblicato su Sketchfab con licenza **CC BY 4.0**. Fonte: [pagina del modello su Sketchfab](https://sketchfab.com/3d-models/asahi-pentax-k1000-0e342ea75d9745fdb213658856d69dab).
+- **Sciarpa — “Scarf Soccer - TF2”**: modello di **iron** (`ironmenleader`), pubblicato su Sketchfab con licenza **CC BY 4.0**. Fonte: [pagina del modello su Sketchfab](https://sketchfab.com/3d-models/scarf-soccer-tf2-685f62fbbfa449fb80cc2b9066a43743). Nel progetto la scala, l'orientamento e la posizione in scena sono adattati per utilizzarlo come cosmetico della fotocamera.
+- **Moka — “Moka Pot”**: modello di **Kuba Wójcik** (`KWojcik`), pubblicato su Sketchfab con licenza **CC BY 4.0**. Fonte: [pagina del modello su Sketchfab](https://sketchfab.com/3d-models/moka-pot-963c5f8b81c045fcab90387bf3aa5143). Nel progetto la scala e la posizione in scena sono adattate per mostrarlo accanto alla fotocamera.
+- **Cappello — `HatModificato.glb`**: il file GLB disponibile nel progetto non conserva metadati sufficienti a identificare con certezza autore, fonte originale e licenza. **La licenza del cappello è quindi da verificare**: prima di distribuire pubblicamente questo asset, aggiungere la fonte originale e la licenza applicabile oppure sostituirlo con un modello dalla provenienza verificabile. Non attribuire a questo modello una licenza presunta.
+
+**Marchio Pentax:** Pentax è un marchio di Ricoh Imaging Company, Ltd. Missioni Reflex è un progetto indipendente, non affiliato né approvato dal titolare del marchio.
+
+**Licenza del progetto:** questi crediti non concedono automaticamente una licenza su tutto il repository. Finché non viene aggiunto un file `LICENSE`, non presumere che codice e contenuti originali di Missioni Reflex siano liberamente riutilizzabili. Le licenze degli asset di terze parti continuano ad applicarsi separatamente.
 
 ---
 
