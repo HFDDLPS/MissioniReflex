@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/xml_file_paths.xml.flat",
+        "source": "it.missionireflex.app-main-14:/xml/file_paths.xml"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-nodpi_ic_launcher_round.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-nodpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-nodpi_ic_launcher.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-nodpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "it.missionireflex.app-debug-12:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "it.missionireflex.app-main-14:/mipmap-mdpi/ic_launcher.png"
+    }
+]
